@@ -205,7 +205,7 @@ For any questions, concerns, or requests related to this Privacy Policy or your 
 
 **Email:** contact@carasso.vip
 **App:** Lumen  
-**Website / Privacy Policy URL:** liavcarasso.github.io/lumen-privacy
+**Website / Privacy Policy URL:** https://liavcarasso.github.io/osh-privacy/
 
 ---
 
