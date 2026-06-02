@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OSH — Account &amp; Data Deletion</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.6;
+      color: #1a1a1a; background: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { color: #e6e6e6; background: #111317; }
+      code { background: #20242c; }
+    }
+    h1 { font-size: 28px; margin-bottom: 4px; }
+    h2 { font-size: 19px; margin-top: 32px; }
+    .muted { color: #888; font-size: 14px; margin-top: 0; }
+    ol, ul { padding-left: 22px; }
+    li { margin: 6px 0; }
+    code { padding: 2px 6px; border-radius: 6px; background: #f0f0f3; font-size: 90%; }
+    a { color: #8b5cf6; }
+    .card { border: 1px solid #8b5cf633; border-radius: 12px; padding: 16px 20px; margin-top: 24px; }
+  </style>
+</head>
+<body>
+  <h1>OSH — Account &amp; Data Deletion</h1>
+  <p class="muted">Last updated: 2026-06-02</p>
+
+  <p>
+    OSH is a shift-tracking app. This page explains how to delete your OSH account
+    and all associated data. Account deletion is permanent and irreversible.
+  </p>
+
+  <h2>Option 1 — Delete inside the app (fastest)</h2>
+  <ol>
+    <li>Open the OSH app and sign in.</li>
+    <li>Go to the <strong>Settings</strong> tab.</li>
+    <li>Scroll to the bottom and tap <strong>Delete Account</strong>.</li>
+    <li>Confirm twice. Your account and data are erased immediately.</li>
+  </ol>
+
+  <h2>Option 2 — Request deletion by email</h2>
+  <p>
+    If you can no longer access the app, email
+    <a href="mailto:contact@carasso.vip">contact@carasso.vip</a>
+    from the address associated with your account, with the subject
+    <code>Delete my OSH account</code>. We will verify ownership and delete your
+    account within 30 days.
+  </p>
+
+  <h2>What gets deleted</h2>
+  <ul>
+    <li>Your Firebase Authentication credential (email/password login).</li>
+    <li>All shift records, job profiles, and earnings statistics.</li>
+    <li>Your friend relationships and group memberships.</li>
+    <li>Your push-notification token and your unique friend code.</li>
+    <li>Your uploaded profile photo (if any).</li>
+  </ul>
+
+  <h2>What is retained, and for how long</h2>
+  <p>
+    Once deleted, your data cannot be recovered. We keep no separate backups of
+    deleted user data beyond Google Firebase's own short technical retention
+    window (typically up to 30 days in Google's backup systems), governed by
+    Google's data-retention practices.
+  </p>
+
+  <div class="card">
+    <strong>Questions?</strong><br />
+    Email <a href="mailto:contact@carasso.vip">contact@carasso.vip</a> ·
+    See our <a href="https://liavcarasso.github.io/osh-privacy">Privacy Policy</a>.
+  </div>
+</body>
+</html>
