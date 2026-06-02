@@ -3,13 +3,13 @@
 **Effective date:** 2026-05-22  
 **Last updated:** 2026-05-22
 
-This Privacy Policy explains how Lumen ("we", "our", or "us") collects, uses, stores, and protects your personal information when you use the Lumen mobile application (the "App"). By using the App, you agree to the practices described in this policy.
+This Privacy Policy explains how Osh ("we", "our", or "us") collects, uses, stores, and protects your personal information when you use the Osh mobile application (the "App"). By using the App, you agree to the practices described in this policy.
 
 ---
 
 ## 1. Who We Are
 
-Lumen is a personal shift-tracking application that helps workers log their hours, calculate their earnings, and share leaderboard-style progress with friends and colleagues. The App is operated as an independent product.
+Osh is a personal shift-tracking application that helps workers log their hours, calculate their earnings, and share leaderboard-style progress with friends and colleagues. The App is operated as an independent product.
 
 For privacy inquiries, contact us at: **contact@carasso.vip**
 
@@ -79,7 +79,7 @@ If you are located in the European Economic Area (EEA), our legal bases for proc
 
 ## 5. Third-Party Services
 
-We use the following third-party services to operate the App. By using Lumen, your data is also subject to their respective privacy policies.
+We use the following third-party services to operate the App. By using Osh, your data is also subject to their respective privacy policies.
 
 ### Firebase (Google LLC)
 
@@ -115,12 +115,12 @@ We do not use:
 
 ## 7. Data Sharing Within the App
 
-Lumen is designed with a privacy-first model. Sharing within the App is strictly opt-in:
+Osh is designed with a privacy-first model. Sharing within the App is strictly opt-in:
 
 - **Friends** — you must initiate or accept a friend request using a unique, randomly-generated friend code. Once connected, accepted friends can see your current shift status (on/off/paused) and your monthly earnings total. Your detailed shift records, hourly rates, and job profiles are **never** shared.
 - **Groups** — you must join or create a group. Group members can see the same information as accepted friends for leaderboard purposes: your current shift status and monthly earnings total.
 - **Privacy level** — you can set your account to "Private" in Settings, which hides your earnings from leaderboard displays within the App.
-- **No public profiles** — your data is never visible to unauthenticated users or to Lumen users who are not your friends or group members.
+- **No public profiles** — your data is never visible to unauthenticated users or to Osh users who are not your friends or group members.
 
 ---
 
